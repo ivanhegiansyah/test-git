@@ -3,5 +3,8 @@ package main
 import "fmt"
 
 func main(){
-	fmt.Println("testing git")
+	
+
+	fmt.Println("test 7")
+	fmt.Println("test 8")
 }
